@@ -24,6 +24,6 @@ Future edits:
 2) Jupyternotebook: Fix the column headers as the census column headers are such a pain and too long for SQL. For our project SQLITE was fine but for purposes of going forward it would be nice to access SQL. SQL schema and Queries were built but not used.
 3) Jupyternotebook: Also call in the missing age group from X years (75-x). Due to time we weren't able to go back.
 4) HTML/D3: Remove titles from html tag and put it into d3 for each chart.
-5) Possibly a prue d3 to do: Animations for the d3 charts using anime.js or some other library in order to show the transformation visually from 2005 to 2017 ala: https://bost.ocks.org/mike/nations/
+5) Possibly a pure d3 to do: Animations for the d3 charts using anime.js or some other library in order to show the transformation visually from 2005 to 2017 ala: https://bost.ocks.org/mike/nations/
 6) Leaflet: bring the control layers for both different Leaflet tilings and layer control heatmaps for Age, Race, Income and Gender. 
 7) Deploy to Heroku
