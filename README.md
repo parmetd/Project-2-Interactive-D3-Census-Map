@@ -27,3 +27,4 @@ Future edits:
 5) Possibly a pure d3 to do: Animations for the d3 charts using anime.js or some other library in order to show the transformation visually from 2005 to 2017 ala: https://bost.ocks.org/mike/nations/
 6) Leaflet: bring the control layers for both different Leaflet tilings and layer control heatmaps for Age, Race, Income and Gender. 
 7) Deploy to Heroku
+8) Create a /about page
