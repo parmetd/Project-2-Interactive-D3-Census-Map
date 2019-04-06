@@ -31,3 +31,5 @@ Future edits:
 9) Create javascript from sqlite on the total population
 10) Do some analysis on mean, median, mode std of income to present changes over time and show the gentrification of areas to tell a better story.
 11) Navigation pane to an /about /rawdata /summary of findings etc.
+12) Updated favicon
+13) Link to american fact finder / data census gov as our source data. And add github link.
